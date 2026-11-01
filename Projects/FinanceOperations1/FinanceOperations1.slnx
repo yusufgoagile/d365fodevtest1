@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Debug" />
+  </Configurations>
+  <Project Path="FinanceOperations1/FinanceOperations1.rnrproj" Type="fc65038c-1b2f-41e1-a629-bed71d161fff" Id="831ba2c5-bec9-404d-9c87-1505c9c943f6" />
+  <Properties Name="CRMSolutionProperties">
+    <Property Name="SolutionIsBoundToCRM" Value="True" />
+  </Properties>
+</Solution>
